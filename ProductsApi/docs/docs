@@ -6,6 +6,8 @@ then i dockarized API and trying to connect on mongoDB container
 
 docker pull hamdiiiii/flaskapi
 
+docker pull mongo 
+
 i failed till now but i think i must handle configurations separately so i will work on that 
 
 
